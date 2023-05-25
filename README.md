@@ -1,5 +1,5 @@
 # py-my-utils
 > Nicholas Ramsay
 
-Collation of python methods I otherwise must re-defining in many a project. Many have better substitutes from other packages such as Pandas and Numpy.
+Collation of python methods I seem to re-define in every project. Many have better substitutes from other packages such as Pandas and Numpy. However, others are absolute godsends.
 
