@@ -32,7 +32,7 @@ def test_max_idx():
     assert max_idx([3,2,1]) == (0, 3)
     assert max_idx([98, 101, 21, 42, 101, 26, 974, 57, 421]) == (6, 974)
 
-def test_take_args_as_list_decorator_factory():
+def test_take_args_as_list():
     # simple case, no positionals
     @take_args_as_list() # NOTE: must use empty parenthesis
     def f1(L: list[any]):
