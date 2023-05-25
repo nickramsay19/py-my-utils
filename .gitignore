@@ -1,3 +1,6 @@
+__pycache__/
+nick/__pycache__/
+
 # Created by https://www.toptal.com/developers/gitignore/api/vim,linux,macos
 # Edit at https://www.toptal.com/developers/gitignore?templates=vim,linux,macos
 
@@ -23,7 +26,8 @@
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
