@@ -2,7 +2,7 @@ from __future__ import annotations
 from typing import Callable
 
 class WrappedObject:
-    """Wrap atomics and sentinals into a pseudo pass by reference object"""
+    """Wrap atomics and sentinals into a pseudo pass by reference object."""
     def __init__(self, val: any):
         self._val: List[any] = [val]
 
